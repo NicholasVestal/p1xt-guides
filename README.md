@@ -71,6 +71,9 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 | [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |          |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |          |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |          |
+| [Basics Mathematics by Serge Lang]                            |        |          |
+| [Prealgebra by OpenStax College]                              |        |          |
+| [Beginning and Intermediate Algebra by Tyler Wallace]         |        |          |
 
 ### Tier X - Programming Prep Prep
 
