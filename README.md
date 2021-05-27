@@ -262,3 +262,17 @@ Wrap up by diving more deeply into your specialization(s). If you haven't alread
 | Complete a [Specialization](#specializations)                                                                                                                                   |            |              |
 | **Capstone**                                                                                                                                                                    | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
+
+
+### Tier 6 - Degree
+
+
+| **Degree**                                                                                                                                                                    | **Status** | **Evidence** |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
+| Computer Science Degree                                                                                                                                                         |            |              |
+| Computer Science Degree - Cyber Security                                                                                                                                        |            |              |
+| Complete a [Specialization](#specializations)                                                                                                                                   |            |              |
+| Complete a [Specialization](#specializations)                                                                                                                                   |            |              |
+| Complete a [Specialization](#specializations)                                                                                                                                   |            |              |
+| **Capstone**                                                                                                                                                                    | **Status** | **Evidence** |
+|            |              |
